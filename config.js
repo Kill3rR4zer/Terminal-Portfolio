@@ -43,16 +43,6 @@ const config = {
             "info": ["use ipconfig command to see your IP details"]
         },
         {
-            "title": "contributors",
-            "description": "to see all the contributors",
-            "info": ["use contributors command to see all the contributors"]
-        },
-        {
-            "title": "download",
-            "description": "to download my pdf resume",
-            "info": ["use download command to download my pdf resume"]
-        },
-        {
             "title": "calc",
             "description": "to evaluate an expression, for eg: (2 + 3)",
             "info": ["use calc command to evaluate an expression","for eg: write 'calc 2+6*5/3'"]
@@ -115,37 +105,8 @@ const config = {
             "link": "https://s-movies-react.netlify.app/",
             "description": "This is a full fledged movie web app with profile and recommendations system. I am using ESLint configurations for clean code."
         },
-        {
-            "title": "MyChabi",
-            "link": "https://techspiritss.github.io/MyChabi/",
-            "description": "MyChabi is a web application to help you out with your passwords"
-        },
-        {
-            "title": "Task C++",
-            "link": "https://github.com/TechSpiritSS/Task-C-",
-            "description": "A command-line based task management application"
-        },
-        {
-            "title": "Notes Insight",
-            "link": "https://mohityadav0903.github.io/Notes-Insight",
-            "description": "A note taking app for visually weak and elderly who aren't comfortable with Modern UI"
-        },
-        {
-            "title": "BigINT Library",
-            "link": "https://github.com/TechSpiritSS/bigInt.git",
-            "description": "This is my own C Library for BigINT made from scratch and it supports 2700 digits"
-        },
-        {
-            "title": "50 Days of Web",
-            "link": "https://techspiritss.github.io/50-Days-50-Projects-Web-Dev/",
-            "description": "50 Web Apps made over the period of 50 days for learning purpose"
-        },
-        {
-            "title": "Covid Vaccination Slot",
-            "link": "https://github.com/TechSpiritSS/Covid-Vaccine",
-            "description": "This Python Program informs about the available Covid vaccine slots at your pin code according to your age group"
-        }
     ],
+
     "contact": {
         "email": "admin@xnm.icu"
     },
