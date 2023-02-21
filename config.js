@@ -101,9 +101,9 @@ const config = {
     ],
     "projects": [
         {
-            "title": "S Movies",
-            "link": "https://s-movies-react.netlify.app/",
-            "description": "This is a full fledged movie web app with profile and recommendations system. I am using ESLint configurations for clean code."
+            "title": "Make-Meme",
+            "link": "https://makememe.de/",
+            "description": "Erstelle aus Bildern ein meme."
         },
     ],
 
