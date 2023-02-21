@@ -28,11 +28,6 @@ const config = {
             "info": ["use projects command to see my projects"]
         },
         {
-            "title": "blogs",
-            "description": "to see my recent blogs",
-            "info": ["use blogs command to see my recent blogs"]
-        },
-        {
             "title": "contact",
             "description": "to enquire about my services",
             "info": ["use enquire command to enquire about my services"]
@@ -43,19 +38,9 @@ const config = {
             "info": ["use cheer command to appreciate my work"]
         },
         {
-            "title": "repos",
-            "description": "to see my github repositories",
-            "info": ["use repos command to see my github repositories"]
-        },
-        {
             "title": "ipconfig",
             "description": "to see your IP details",
             "info": ["use ipconfig command to see your IP details"]
-        },
-        {
-            "title": "github",
-            "description": "to see my github stats",
-            "info": ["use github command to see my github stats"]
         },
         {
             "title": "contributors",
@@ -73,19 +58,9 @@ const config = {
             "info": ["use calc command to evaluate an expression","for eg: write 'calc 2+6*5/3'"]
         },
         {
-            "title": "experience",
-            "description": "to see my work experience",
-            "info": ["use experience command to see my work experience"]
-        },
-        {
             "title": "history",
             "description": "shows the last 10 valid commands performed, use --clear flag to clear the history",
             "info": ["use history command to show your last 10 commands history","use --clear flag to clear the history","use history {id} command to run command of that id in your history"]
-        },
-        {
-            "title": "skills",
-            "description": "to see my skills",
-            "info": ["use skills command to see my skills"]
         },
         {
             "title": "typing",
