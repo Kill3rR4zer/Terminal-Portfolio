@@ -78,12 +78,7 @@ const config = {
         "host": "sudo",
         "path": "~/guest"
     },
-    "blogs": [
-        {
-            "site": "Medium",
-            "url": "https://medium.com/feed/@sadashay"
-        }
-    ],
+   
     "cheer": {
         "responseArray": [
             "Thank you! It makes my day😊😊😊",
@@ -152,34 +147,8 @@ const config = {
         }
     ],
     "contact": {
-        "email": "techspiritss@duck.com"
+        "email": "admin@xnm.icu"
     },
-    "experience": [
-        {
-            "title": "Project AdministratorProject Administrator",
-            "description": "Terminal-Portfolio invites talented developers to create stunning, command-line themed portfolios to showcase their skills and work. Command-line interface is a powerful and efficient tool for developers, and this project aims to celebrate this through the creation of visually striking and intuitively designed web terminals."
-        },
-        {
-            "title": "Google Venkat Panchapakesan Memorial Scholar 2022",
-            "description": "One of the 14 awardees of this prestigious scholarship across India, which recognizes ‘Upcoming Computer Scientists and Technology Leaders who wish to give back to society. The scholarship included a substantial amount as well as a virtual retreat by Google, wherein we met the Googlers, Scholarship Alumni, Prominent Leaders at Google and YouTube."
-        }
-    ],
-    "skills": [
-        {
-            "title": "Technical skills are: ",
-            "description": "Front-End Development, C++, C, MySQL, Linux, SQL, Node.js, MongoDB, JSON, DSA, OOP, Problem Solving."
-        },
-        {
-            "title": "Other Skills are:",
-            "description": "Team Leadership, Community Management, Team Building, Community Development, Team Management, Microsoft Word, Microsoft Powerpoint, Communication."
-        }
-    ],
-    "neofetch": {
-        "name": "Sidharth Sethi",
-        "title": "MERN Developer",
-        "skills": "Frontend, Backend, Cloud",
-        "shell": "zsh",
-        "languages": "Javascript, C++, HTML/CSS, SQL"
-    },
+    
 }
 export default config
